@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_PJZ110.mk
+    $(LOCAL_DIR)/twrp_PKX110.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_PJZ110-user \
-    twrp_PJZ110-userdebug \
-    twrp_PJZ110-eng
+    twrp_PKX110-user \
+    twrp_PKX110-userdebug \
+    twrp_PKX110-eng
